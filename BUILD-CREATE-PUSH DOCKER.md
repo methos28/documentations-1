@@ -35,7 +35,7 @@ If you don't give tag specifically, it will take default tag as 'latest'.
 docker push username/repository:tag
 ```
 
-===== REMOVE ALL CONTAINERS, NETWORKS, IMAGES =====
+===== REMOVE ALL CONTAINERS, NETWORKS, IMAGES (UNUSED) =====
 
 ```
 docker system prune -a
